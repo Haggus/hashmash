@@ -1,0 +1,10 @@
+[package]
+name = "hashmash"
+version = "0.1.0"
+authors = ["Mateusz 'Haggus' Mrowiec <matt.mrowiec@gmail.com>"]
+
+[dependencies]
+rust-crypto = "0.2"
+chrono = "0.4"
+rand = "0.3"
+base64 = "0.6"
